@@ -325,6 +325,12 @@ header .navbar ul li a:hover{
     color:#fff;
     background:var(--yellow);
 }
+}
+
+.Projects .box-container .info h3 i{
+    padding-right: 1rem;
+    color:var(--yellow);
+}
 .portfolio .box-container{
     display: flex;
     align-items: center;

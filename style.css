@@ -345,7 +345,7 @@ header .navbar ul li a:hover{
 }
 
 .Ongoing .box-container .box span{
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     background:#222;
     color:rgb(126, 120, 120);
     border-radius: 5rem;
@@ -359,7 +359,7 @@ header .navbar ul li a:hover{
 }
 
 .Ongoing .box-container .box p{
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     color:#eee;
     padding: 1rem 0;
 }

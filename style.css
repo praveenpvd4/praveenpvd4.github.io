@@ -367,10 +367,10 @@ header .navbar ul li a:hover{
 .Ongoing .box-container .box i{
     position:left;
     top:-1.5rem; left:0rem;
-    height:5rem;
-    width: 5rem;
+    height:3rem;
+    width: 3rem;
     border-radius: 50%;
-    line-height: 5rem;
+    line-height: 3rem;
     text-align: center;
     font-size: 2rem;
     color:#fff;
